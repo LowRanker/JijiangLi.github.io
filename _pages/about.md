@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-JijiangLi is a handsome boy with a strong expertise in Differentiable Rendering, Computer Vision, Computer Graphics, and Computational Photography, possessing a solid foundation and practical skills. His research interests include Augmented Reality, Virtual Reality, and Differentiable Rendering.
+
+Jijiang Li is currently pursuing a master’s degree at the College of Computer and Information Science, Southwest University, China.
 
 
 # 🔥 News
